@@ -1,0 +1,175 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#a{
+    width: 200px;
+    color: maroon;
+    position:absolute;
+    top:60px;
+    left: 650px;
+    
+}
+#container{
+    width: 450px;
+    height: 400px;
+    background-color: darkslategrey;
+    position: relative;
+    left: 530px;
+    top: 150px;
+    border: 5px dotted green;
+    border-radius: 20px;
+}
+#b{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+#c{
+    
+    position: absolute;
+    top: 30px;
+    left:140px;
+    width: 250px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#d{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+#e{
+    
+    position: absolute;
+    top: 60px;
+    left:140px;
+    width: 250px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#f{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+#g{
+    
+    position: absolute;
+    top: 90px;
+    left:140px;
+    width: 250px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#h{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 120px;
+    left: 30px;
+}
+#i{
+    
+    position: absolute;
+    top: 120px;
+    left:140px;
+    width: 250px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#j{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+#k{
+    
+    position: absolute;
+    top: 150px;
+    left:140px;
+    width: 250px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#l{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 180px;
+    left: 30px;
+}
+#m{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 180px;
+    left: 140px;
+}
+#n{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 188px;
+    left: 180px;
+}
+#o{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 180px;
+    left: 210px;
+}
+#p{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 188px;
+    left: 270px;
+}
+#q{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 180px;
+    left: 300px;
+}
+#r{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 188px;
+    left: 350px;
+}
+#s{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    width: 150px;
+    height: 30px;
+    border: 5px solid green;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
